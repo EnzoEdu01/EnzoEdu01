@@ -57,3 +57,7 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:SEU_EMAIL)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6b0000,100:1a4a1a&height=100&section=footer)
+
+
+
+![snake](https://github.com/EnzoEdu01/EnzoEdu01/blob/output/github-contribution-grid-snake-dark.svg)
