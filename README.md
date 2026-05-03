@@ -46,29 +46,36 @@
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:6b0000,100:1a4a1a&height=3)
 
 
-<details open>
- 
- <summary><h1>🛠️ Tecnologias</h1></summary>
+<div id="user-content-toc">
+ <ul style="list-style: none;" align="left">
+   <summary><h1>🛠️ Tecnologias</h1></summary>
 
-![Tecnologias](https://skillicons.dev/icons?i=python,java,html,css,php)
+   [![Python](https://skillicons.dev/icons?i=python)](#)
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   [![Java](https://skillicons.dev/icons?i=java)](#)
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   [![HTML](https://skillicons.dev/icons?i=html)](#)
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   [![CSS](https://skillicons.dev/icons?i=css)](#)
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   [![PHP](https://skillicons.dev/icons?i=php)](#)
 
-</details>
+   ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1a4a1a,100:6b0000&height=3)
+
+  
+   <summary><h1>📬 Contatos </h1></summary>
+  
+   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/EnzoEdu01)
+   &nbsp;&nbsp;
+   [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:enzomarques412@gmail.com)
 
 
 
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1a4a1a,100:6b0000&height=3)
+ </ul>
+</div>
 
-
-
-<details open>
- 
- <summary><h1>📬 Contatos </h1></summary>
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/EnzoEdu01)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:enzomarques412@gmail.com)
-
-</details>
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:6b0000,100:1a4a1a&height=3)
 
 ![contatos-footer](https://capsule-render.vercel.app/api?type=waving&color=0:6b0000,100:1a4a1a&height=80&section=footer)
 
