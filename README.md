@@ -7,7 +7,7 @@
  Olá, meu nome é **Enzo Eduardo**! Neste perfil terei por foco atual demonstrar aprendizado em **Python**, **Java** durante os meus estudos tanto acadêmico quanto individual. Como estou me saindo diante das linguagens, o que aprendi com algum projeto e o que pude aplicar na vida real com eles, se possível.Além disso poder fazer automações de processos repetivos e também fazer aplicações e criações com agentes de IA em projetos. |---|
 
 <details open>
-<summary text-size=20em>👨‍💻 Sobre mim</summary>
+<summary><h1>👨‍💻 Sobre mim</h1></summary>
 
 <table>
   <tr><td>🎓 <strong>Estudando</strong></td><td>Ciência da Computação — UNIP</td></tr>
@@ -22,7 +22,7 @@
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:6b0000,100:1a4a1a&height=3)
 
 <details open>
-<summary>💡 Características</summary>
+<summary><h1>💡 Características</h1></summary>
 
 <table>
   <tr><td>🔍</td><td><strong>Não descanso enquanto não encontro a solução</strong></td></tr>
@@ -45,19 +45,35 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:6b0000,100:1a4a1a&height=3)
 
-<h1 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1a4a1a,100:6b0000&height=3)>🛠️ Tecnologias</h1>
+
+<details open>
+ 
+ <summary><h1>🛠️ Tecnologias</h1></summary>
 
 ![Tecnologias](https://skillicons.dev/icons?i=python,java,html,css,php)
 
+</details>
+
+
+
+
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1a4a1a,100:6b0000&height=3)
 
-## 📬 Contatos
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/SEU_USUARIO)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:SEU_EMAIL)
 
-![snake-header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=header)
+<details open>
+ 
+ <summary><h1>📬 Contatos </h1></summary>
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/EnzoEdu01)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:enzomarques412@gmail.com)
+
+</details>
+
+![contatos-footer](https://capsule-render.vercel.app/api?type=waving&color=0:6b0000,100:1a4a1a&height=80&section=footer)
+
+![snake-header](https://capsule-render.vercel.app/api?type=waving&color=0:1a4a1a,100:4a0080&height=80&section=header)
 
 ![snake](https://github.com/EnzoEdu01/EnzoEdu01/blob/output/github-contribution-grid-snake-dark.svg)
 
-![snake-footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer)
+![snake-footer](https://capsule-render.vercel.app/api?type=waving&color=0:4a0080,100:1a4a1a&height=80&section=footer)
