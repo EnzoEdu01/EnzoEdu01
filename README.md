@@ -1,13 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a4a1a,100:6b0000&height=150&section=header&text=Bem%20vindo%20ao%20meu%20perfil!&fontSize=35&fontColor=ffffff&fontAlignY=35&desc=Enzo%20Eduardo%20👋&descAlignY=60&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a4a1a,100:6b0000&height=150&section=header&text=Bem%20vindo%20ao%20meu%20perfil!&fontSize=35&fontColor=ffffff&fontAlignY=45)
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1a4a1a,100:6b0000&height=3)
 
 | 🙃 Sobre este perfil |
-|---|
-| Neste perfil terei por foco atual demonstrar aprendizado em Python e Java durante os meus estudos tanto acadêmico quanto individual. Como estou me saindo diante das linguagens, o que aprendi com algum projeto e o que pude aplicar na vida real com eles, se possível. |
+|---
+ Olá, meu nome é **Enzo Eduardo**! Neste perfil terei por foco atual demonstrar aprendizado em **Python**, **Java** durante os meus estudos tanto acadêmico quanto individual. Como estou me saindo diante das linguagens, o que aprendi com algum projeto e o que pude aplicar na vida real com eles, se possível.Além disso poder fazer automações de processos repetivos e também fazer aplicações e criações com agentes de IA em projetos. |---|
 
 <details open>
-<summary>👨‍💻 Sobre mim</summary>
+<summary text-size=20em>👨‍💻 Sobre mim</summary>
 
 <table>
   <tr><td>🎓 <strong>Estudando</strong></td><td>Ciência da Computação — UNIP</td></tr>
@@ -56,8 +56,7 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/SEU_USUARIO)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:SEU_EMAIL)
 
+![snake](https://github.com/EnzoEdu01/EnzoEdu01/blob/output/github-contribution-grid-snake-dark.svg)
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:6b0000,100:1a4a1a&height=100&section=footer)
 
-
-
-![snake](https://github.com/EnzoEdu01/EnzoEdu01/blob/output/github-contribution-grid-snake-dark.svg)
