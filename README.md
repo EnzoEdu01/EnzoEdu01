@@ -53,15 +53,7 @@
 
 </details>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1a4a1a,100:6b0000&height=3)
 
-<p align="left" >
-  <img src="https://github-readme-stats-dusky-omega-70.vercel.app/api?username=EnzoEdu01&show_icons=true&theme=dark" height="150"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-dusky-omega-70.vercel.app/api/top-langs/?username=EnzoEdu01&layout=compact&theme=dark" height="150"/>
-</p>
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:6b0000,100:1a4a1a&height=3)
 
 
 <div id="user-content-toc">
@@ -99,8 +91,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4a1a,100:4a0080&height=80&section=header" style="display:block;">
   
   ![snake](https://github.com/EnzoEdu01/EnzoEdu01/blob/output/github-contribution-grid-snake-dark.svg)
+
+
+
+
+<p align="left" >
+  <img src="https://github-readme-stats-dusky-omega-70.vercel.app/api?username=EnzoEdu01&show_icons=true&theme=dark" height="150"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-dusky-omega-70.vercel.app/api/top-langs/?username=EnzoEdu01&layout=compact&theme=dark" height="150"/>
+</p>
+
   
-![snake-footer](https://capsule-render.vercel.app/api?type=waving&color=0:4a0080,100:1a4a1a&height=80&section=footer)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4a1a,100:4a0080&height=150&section=header" style="display:block;">
 
 </p>
 
