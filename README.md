@@ -1,12 +1,10 @@
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a4a1a,100:6b0000&height=150&section=header&text=Bem%20vindo%20ao%20meu%20perfil!&fontSize=35&fontColor=ffffff&fontAlignY=45)
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1a4a1a,100:6b0000&height=3)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1a4a1a,100:6b0000&height=10)
 
 
 
-
-
+<div>
 <table id="user-content-toc" >
   <tr><td>
 
@@ -14,10 +12,13 @@
   
 ---
 
-<p>Olá, meu nome é <b>Enzo Eduardo</b>! Neste perfil terei por foco atual demonstrar aprendizado em <b>Python</b>,<b>Java</b> durante<br> os meus estudos tanto acadêmico quanto individual. Como estou me saindo diante das linguagens, o que aprendi<br> com algum projeto e o que pude aplicar na vida real com eles, se possível.Além disso poder fazer <b>automações</b> de<br> processos repetivos e também fazer aplicações e criações com <b>agentes de IA</b> em projetos.</p>
+<p>Olá, meu nome é <b>Enzo Eduardo</b>! Neste perfil terei por foco atual demonstrar aprendizado em <b>Python</b>, <b>Java</b> durante<br> os meus estudos tanto acadêmico quanto individual. Como estou me saindo diante das linguagens, o que aprendi<br> com algum projeto e o que pude aplicar na vida real com eles, se possível. Além disso poder fazer <b>automações</b> de<br> processos repetivos e também fazer aplicações e criações com <b>agentes de IA</b> em projetos.</p>
 
   </td></tr>
 </table>
+</div>
+
+
 
 <details open>
 <summary><h1>👨‍💻 Sobre mim</h1></summary>
@@ -32,7 +33,11 @@
 
 </details>
 
+
+
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:6b0000,100:1a4a1a&height=3)
+
+
 
 <details open>
 <summary><h1>💡 Características</h1></summary>
@@ -50,10 +55,10 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1a4a1a,100:6b0000&height=3)
 
-<p align="left">
-  <img src="https://github-readme-stats-dusky-omega-70.vercel.app/api?username=EnzoEdu01&show_icons=true&theme=dracula" height="150"/>
+<p align="left" >
+  <img src="https://github-readme-stats-dusky-omega-70.vercel.app/api?username=EnzoEdu01&show_icons=true&theme=dark" height="150"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-dusky-omega-70.vercel.app/api/top-langs/?username=EnzoEdu01&layout=compact&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats-dusky-omega-70.vercel.app/api/top-langs/?username=EnzoEdu01&layout=compact&theme=dark" height="150"/>
 </p>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:6b0000,100:1a4a1a&height=3)
@@ -61,7 +66,7 @@
 
 <div id="user-content-toc">
  <ul style="list-style: none;" align="left">
-   <summary><h1>🛠️ Tecnologias</h1></summary>
+   <summary><h1>💻 Linguagens</h1></summary>
 
    [![Python](https://skillicons.dev/icons?i=python)](#)
    &nbsp;&nbsp;&nbsp;&nbsp;
@@ -88,12 +93,14 @@
  </ul>
 </div>
 
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:6b0000,100:1a4a1a&height=3)
-
-![contatos-footer](https://capsule-render.vercel.app/api?type=waving&color=0:6b0000,100:1a4a1a&height=80&section=footer)
-
-![snake-header](https://capsule-render.vercel.app/api?type=waving&color=0:1a4a1a,100:4a0080&height=80&section=header)
-
-![snake](https://github.com/EnzoEdu01/EnzoEdu01/blob/output/github-contribution-grid-snake-dark.svg)
-
+<p style="margin:0; padding:0; line-height:0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b0000,100:1a4a1a&height=80&section=footer" style="display:block;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a4a1a,100:4a0080&height=25" style="display:block;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4a1a,100:4a0080&height=80&section=header" style="display:block;">
+  
+  ![snake](https://github.com/EnzoEdu01/EnzoEdu01/blob/output/github-contribution-grid-snake-dark.svg)
+  
 ![snake-footer](https://capsule-render.vercel.app/api?type=waving&color=0:4a0080,100:1a4a1a&height=80&section=footer)
+
+</p>
+
