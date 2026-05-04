@@ -4,9 +4,7 @@
 
 
 
-<div>
-<table id="user-content-toc" >
-  <tr><td>
+<div><table id="user-content-toc" ><tr><td>
 
   <ul align="center" style="list-style: none;"><summary > <h1>🙃 Sobre este perfil</h1> </summary></ul>
   
@@ -14,23 +12,18 @@
 
 <p text-align = "justify">Olá, meu nome é <b>Enzo Eduardo</b>! Neste perfil terei por foco atual demonstrar aprendizado em <b>Python</b>, <b>Java</b> durante os meus estudos tanto acadêmico quanto individual. Como estou me saindo diante das linguagens, o que aprendi com algum projeto e o que pude aplicar na vida real com eles, se possível. Além disso poder fazer <b>automações</b> de processos repetivos e também fazer aplicações e criações com <b>agentes de IA</b> em projetos.</p>
 
-  </td></tr>
-</table>
-</div>
+</td></tr></table></div>
 
 
 
-<details open>
-<summary><h1>👨‍💻 Sobre mim</h1></summary>
-
-<table>
+<details open><summary><h1>👨‍💻 Sobre mim</h1></summary>
+  <table>
   <tr><td>🎓 <strong>Estudando</strong></td><td>Ciência da Computação — UNIP</td></tr>
-  <tr><td>🌍 <strong>Localização</strong></td><td>São Paulo, SP</td></tr>
+  <tr><td>🌍 <strong>Localização</strong></td><td>São Paulo</td></tr>
   <tr><td>💼 <strong>Disponível para</strong></td><td>Estágio · Freelance · Oportunidades Júnior</td></tr>
   <tr><td>🚀 <strong>Aprendendo</strong></td><td>Python e Java</td></tr>
   <tr><td>🎯 <strong>Objetivo</strong></td><td>Primeira oportunidade como Desenvolvedor Júnior</td></tr>
-</table>
-
+  </table>
 </details>
 
 
@@ -39,9 +32,7 @@
 
 
 
-<details open>
-<summary><h1>💡 Características</h1></summary>
-
+<details open><summary><h1>💡 Características</h1></summary>
 <table>
   <tr><td>🔍</td><td><strong>Não descanso enquanto não encontro a solução</strong></td></tr>
   <tr><td>📖</td><td><strong>Sempre buscando novos conhecimentos</strong></td></tr>
@@ -50,15 +41,15 @@
   <tr><td>💬</td><td><strong>Boa comunicação e aberto a feedbacks</strong></td></tr>
   <tr><td>☕</td><td><strong>Café não pode faltar</strong></td></tr>
 </table>
-
 </details>
 
 
 
 
 <div id="user-content-toc">
- <ul style="list-style: none;" align="left">
-   <summary><h1>💻 Linguagens</h1></summary>
+  <ul style="list-style: none;" align="left">
+  
+  <summary><h1>💻 Linguagens</h1></summary>
 
    [![Python](https://skillicons.dev/icons?i=python)](#)
    &nbsp;&nbsp;&nbsp;&nbsp;
