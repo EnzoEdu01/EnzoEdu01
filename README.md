@@ -2,9 +2,29 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1a4a1a,100:6b0000&height=3)
 
-| 🙃 Sobre este perfil |
-|---
- Olá, meu nome é **Enzo Eduardo**! Neste perfil terei por foco atual demonstrar aprendizado em **Python**, **Java** durante os meus estudos tanto acadêmico quanto individual. Como estou me saindo diante das linguagens, o que aprendi com algum projeto e o que pude aplicar na vida real com eles, se possível.Além disso poder fazer automações de processos repetivos e também fazer aplicações e criações com agentes de IA em projetos. |---|
+<h2>
+  <a id="my-section" class="ancor" href="#my-section" aria-hidden="true">
+    <svg class="octicon octicon-link" ...></svg>
+  </a>
+  My Section
+</h2>
+
+
+
+<table>
+ 
+  <tr><td>
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;"><summary> ##🙃 Sobre este perfil </summary></ul>
+</div>
+
+
+---
+
+<p>Olá, meu nome é <b>Enzo Eduardo</b>! Neste perfil terei por foco atual demonstrar aprendizado em <b>Python</b>,<b>Java</b> durante<br> os meus estudos tanto acadêmico quanto individual. Como estou me saindo diante das linguagens, o que aprendi<br> com algum projeto e o que pude aplicar na vida real com eles, se possível.Além disso poder fazer <b>automações</b> de<br> processos repetivos e também fazer aplicações e criações com <b>agentes de IA</b> em projetos.</p>
+
+  </td></tr>
+</table>
 
 <details open>
 <summary><h1>👨‍💻 Sobre mim</h1></summary>
