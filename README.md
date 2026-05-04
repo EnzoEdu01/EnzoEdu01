@@ -1,24 +1,17 @@
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a4a1a,100:6b0000&height=150&section=header&text=Bem%20vindo%20ao%20meu%20perfil!&fontSize=35&fontColor=ffffff&fontAlignY=45)
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1a4a1a,100:6b0000&height=3)
 
-<h2>
-  <a id="my-section" class="ancor" href="#my-section" aria-hidden="true">
-    <svg class="octicon octicon-link" ...></svg>
-  </a>
-  My Section
-</h2>
 
 
 
-<table>
- 
+
+<table id="user-content-toc" >
   <tr><td>
-<div id="user-content-toc">
-  <ul align="center" style="list-style: none;"><summary> ##🙃 Sobre este perfil </summary></ul>
-</div>
 
-
+  <ul align="center" style="list-style: none;"><summary > <h1>🙃 Sobre este perfil</h1> </summary></ul>
+  
 ---
 
 <p>Olá, meu nome é <b>Enzo Eduardo</b>! Neste perfil terei por foco atual demonstrar aprendizado em <b>Python</b>,<b>Java</b> durante<br> os meus estudos tanto acadêmico quanto individual. Como estou me saindo diante das linguagens, o que aprendi<br> com algum projeto e o que pude aplicar na vida real com eles, se possível.Além disso poder fazer <b>automações</b> de<br> processos repetivos e também fazer aplicações e criações com <b>agentes de IA</b> em projetos.</p>
