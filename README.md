@@ -12,7 +12,7 @@
   
 ---
 
-<p>Olá, meu nome é <b>Enzo Eduardo</b>! Neste perfil terei por foco atual demonstrar aprendizado em <b>Python</b>, <b>Java</b> durante os meus estudos tanto acadêmico quanto individual. Como estou me saindo diante das linguagens, o que aprendi com algum projeto e o que pude aplicar na vida real com eles, se possível. Além disso poder fazer <b>automações</b> de processos repetivos e também fazer aplicações e criações com <b>agentes de IA</b> em projetos.</p>
+<p text-align = "justify">Olá, meu nome é <b>Enzo Eduardo</b>! Neste perfil terei por foco atual demonstrar aprendizado em <b>Python</b>, <b>Java</b> durante os meus estudos tanto acadêmico quanto individual. Como estou me saindo diante das linguagens, o que aprendi com algum projeto e o que pude aplicar na vida real com eles, se possível. Além disso poder fazer <b>automações</b> de processos repetivos e também fazer aplicações e criações com <b>agentes de IA</b> em projetos.</p>
 
   </td></tr>
 </table>
